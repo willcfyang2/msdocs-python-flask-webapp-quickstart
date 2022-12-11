@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'willcfyang2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE1D43F429104408832B32C7E77D480D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FEAB0BDFB5E94620A1914D3349C8E371 }}
